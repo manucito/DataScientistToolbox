@@ -1,4 +1,4 @@
-Tools4DataAnalysis
+Data Scientist Tools
 ==================
 
-Coursera Tools for Data Analysis
+Coursera Data Scientist Toolbox
